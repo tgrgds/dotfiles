@@ -1,0 +1,20 @@
+{
+  "workbench.colorTheme": "Bearded Theme Arc",
+  "workbench.iconTheme": "vscode-icons",
+
+  "workbench.activityBar.location": "hidden",
+  // "workbench.sideBar.location": "right"
+  "workbench.statusBar.visible": false,
+  "editor.minimap.enabled": false,
+
+  "breadcrumbs.enabled": false,
+
+  "workbench.editor.showTabs": "single",
+  "explorer.openEditors.visible": 0,
+  "explorer.decorations.colors": false,
+
+  "window.menuBarVisibility": "toggle",
+  "workbench.layoutControl.type": "menu",
+
+  "window.title": " " //"${dirty}${activeEditorShort}${separator}${rootName}${separator}${profileName}${separator}${appName}"
+}
