@@ -45,6 +45,7 @@ PACKAGE_LIST=(
   tree
   picom
   python3
+  i3
   curl
   code
   git-all
@@ -107,8 +108,8 @@ mv picom.conf ~/.config/picom.conf
 mv .bashrc ~
 mv .bash_aliases ~
 mv .vscode/settings.json ~/.config/Code/User/settings.json
-cp -r i3 ~/.config/i3
-cp -r xfce4 ~/.config/xfce4
+cp -r i3 ~/.config/
+cp -r xfce4 ~/.config/
 
 mkdir ~/Icons
 mv hal.png ~/Icons
